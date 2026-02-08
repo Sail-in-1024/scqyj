@@ -1,3 +1,7 @@
+"""
+Some useful types in SCQYJ. 
+"""
+
 
 class GracefulIncrease:
 
